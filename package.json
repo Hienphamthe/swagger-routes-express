@@ -91,6 +91,7 @@
     }
   },
   "dependencies": {
+    "madge": "^3.4.4",
     "semver": "^5.6.0"
   }
 }
